@@ -1,5 +1,5 @@
 def addition(5, 4)
-puts "9"
+puts 9
 end
 
 def subtraction(num1, num2)
